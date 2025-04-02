@@ -16,14 +16,17 @@ Here are some ideas to get you started:
 -->
 ### 👩‍💻 About Me
 
-🔭 **Currently Seeking Opportunities**  
-I am looking for new roles in **Manual and Automation Testing**, with hands-on experience in various testing tools and methodologies. I am passionate about ensuring quality through testing and open to collaborating on automation projects.
+## 🔍 Seeking New Opportunities  
 
-💡 **Continuous Learning**  
-I am committed to continuously improving my skills and staying updated with the latest trends in the QA field, from automation frameworks to manual testing techniques.
+I am open to roles in **manual and automation testing**, where I can apply my experience with various tools and methodologies. My focus is on ensuring quality through testing, and I enjoy working on automation.  
 
-📚 **Tools & Methodologies**  
-I have experience with **Selenium**, **Java**, **Cucumber**, **TestNG**, and various other tools. I am also skilled in **Agile methodologies** and enjoy working in environments that foster collaboration and innovation.
+### 💡 Continuous Learning  
+I am constantly developing my skills and keeping up with the latest trends in the QA field – from testing frameworks to manual testing techniques.  
 
-📧 [yadranca78@gmail.com](mailto:yadranca78@gmail.com)
+### 📚 Tools & Methodologies  
+I have worked with **Selenium**, **Java**, **Cucumber**, **TestNG**, and other tools. I have experience with **Agile methodologies** and prefer environments that encourage innovation and growth.  
+
+### 📧 Contact  
+[your.email@example.com](mailto:your.email@example.com)  
+
 
