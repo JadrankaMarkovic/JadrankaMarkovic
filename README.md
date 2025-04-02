@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭Currently Seeking Opportunities
-Looking for new roles in Manual and Automation Testing, with hands-on experience in various testing tools and methodologies.
+- I am looking for new roles in Manual and Automation Testing, with hands-on experience in various testing tools and methodologies. I am passionate about ensuring quality through testing and open to collaborating on automation projects.
+- 💡 Continuous Learning
+- I am committed to continuously improving my skills and staying updated with the latest trends in the QA field, from automation frameworks to manual testing techniques.
+- 📚 Tools & Methodologies
+- I have experience with Selenium, Java, Cucumber, TestNG, and various other tools. I am also skilled in Agile methodologies and enjoy working in environments that foster collaboration and innovation.
