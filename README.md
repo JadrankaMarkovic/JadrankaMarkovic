@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### 👩‍💻 About Me
 
-## 🔍 Seeking New Opportunities  
+### 🔍 Seeking New Opportunities  
 
 I am open to roles in **manual and automation testing**, where I can apply my experience with various tools and methodologies. My focus is on ensuring quality through testing, and I enjoy working on automation.  
 
