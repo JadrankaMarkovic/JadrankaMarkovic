@@ -25,3 +25,5 @@ I am committed to continuously improving my skills and staying updated with the 
 📚 **Tools & Methodologies**  
 I have experience with **Selenium**, **Java**, **Cucumber**, **TestNG**, and various other tools. I am also skilled in **Agile methodologies** and enjoy working in environments that foster collaboration and innovation.
 
+📧 [yadranca78@gmail.com](mailto:yadranca78@gmail.com)
+
