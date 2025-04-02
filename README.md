@@ -27,6 +27,6 @@ I am constantly developing my skills and keeping up with the latest trends in th
 I have worked with **Selenium**, **Java**, **Cucumber**, **TestNG**, and other tools. I have experience with **Agile methodologies** and prefer environments that encourage innovation and growth.  
 
 ### 📧 Contact  
-[your.email@example.com](mailto:your.email@example.com)  
+[yadranca78@gmail.com](mailto:yadranca78@gmail.com)  
 
 
